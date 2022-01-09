@@ -1,5 +1,5 @@
 #pragma once
-
+//Billy B
 typedef  char* DataType;
 
 struct node 
