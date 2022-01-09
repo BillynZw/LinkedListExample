@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-
+//Pooh Shiesty
 int _tmain(int argc, _TCHAR* argv[]){
 	List L;
 	Init (L);

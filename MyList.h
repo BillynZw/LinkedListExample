@@ -1,7 +1,7 @@
 #pragma once
 //Billy B
 typedef  char* DataType;
-
+//Pooh Shiesty
 struct node 
 { DataType data;
   node* next;
